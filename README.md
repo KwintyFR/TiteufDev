@@ -1,6 +1,6 @@
 ## Hello, I'm Titeuf :wave:
 
-- :leaves: I'm 22 years old
+- :leaves: I'm 23 years old
 - :shamrock: My current project is [Tit3uf.fr](https://tit3uf.fr)
 - :fallen_leaf: Currently, I'm learning JavaScript and LUA
 
