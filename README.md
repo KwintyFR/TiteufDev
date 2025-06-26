@@ -8,8 +8,8 @@
   <p>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/lua-323330?style=for-the-badge&logo=lua&logoColor=F7DF1E" /> 
-    <img src="https://img.shields.io/badge/lua-323330?style=for-the-badge&logo=html&logoColor=F7DF1E" /> 
-    <img src="https://img.shields.io/badge/lua-323330?style=for-the-badge&logo=css&logoColor=F7DF1E" /> 
+    <img src="https://img.shields.io/badge/html-323330?style=for-the-badge&logo=html&logoColor=F7DF1E" /> 
+    <img src="https://img.shields.io/badge/css-323330?style=for-the-badge&logo=css&logoColor=F7DF1E" /> 
   </p>
   
 ## :zap: Database:
@@ -23,7 +23,7 @@
  <p>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=es_extended&logoColor=white" />
+    <img src="https://img.shields.io/badge/es_extended-CB3837?style=for-the-badge&logo=es_extended&logoColor=white" />
  </p>
  
 ## :computer: Software:
