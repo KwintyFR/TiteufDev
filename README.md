@@ -1,7 +1,7 @@
-## Hello, I'm Titeuf :wave:
+## Hello, I'm Kwinty :wave:
 
 - :leaves: I'm 23 years old
-- :shamrock: My current project is [Tit3uf.fr](https://tit3uf.fr)
+- :shamrock: My current project is [kwinty.fr](https://kwinty.fr)
 - :fallen_leaf: Currently, I'm learning JavaScript and LUA
 
 ## :earth_africa: Languages:
