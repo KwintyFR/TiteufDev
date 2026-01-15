@@ -2,7 +2,7 @@
 
 - :leaves: I'm 23 years old
 - :shamrock: My current project is [kwinty.fr](https://kwinty.fr)
-- :fallen_leaf: Currently, I'm learning JavaScript and LUA
+- :fallen_leaf: Currently, I'm learning JavaScript and LUA and REACT
 
 ## :earth_africa: Languages:
   <p>
@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </p>
   
 ## :zap: Database:
